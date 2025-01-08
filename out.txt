@@ -1,0 +1,339 @@
+On branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   AI medicine/2401.05654.pdf
+	new file:   AI medicine/2405.20421v1.pdf
+	new file:   Agent systems/2311.10813.pdf
+	new file:   Agent systems/2401.13604.pdf
+	new file:   Agent systems/2402.01030v3.pdf
+	new file:   Agent systems/2402.01622.pdf
+	new file:   Agent systems/2402.05120.pdf
+	new file:   Agent systems/2402.05929.pdf
+	new file:   Agent systems/2403.03101.pdf
+	new file:   Agent systems/2403.08140.pdf
+	new file:   Agent systems/2403.08299.pdf
+	new file:   Agent systems/2404.10179.pdf
+	new file:   Agent systems/2405.14205v1.pdf
+	new file:   Agent systems/2406.11638v1.pdf
+	new file:   Agent systems/2406.18532v1.pdf
+	new file:   Agent systems/2408.08435v1.pdf
+	new file:   Agent systems/2409.15637v1.pdf
+	new file:   Agent systems/2410.03439v1.pdf
+	new file:   Agent systems/2410.05243v1.pdf
+	new file:   Agent systems/2410.08164v1.pdf
+	new file:   Agent systems/2410.09713v1.pdf
+	new file:   Agent systems/2410.10934v1.pdf
+	new file:   Agent systems/2410.11905v1.pdf
+	new file:   Agent systems/2411.02305v1.pdf
+	new file:   Agent systems/LLM_based_Multi_Agents_Survey6.pdf
+	new file:   Agent systems/Swe-agent.pdf
+	new file:   Agent systems/TapeAgentsFramework.pdf
+	new file:   Agent systems/practices-for-governing-agentic-ai-systems.pdf
+	new file:   Agi /Proof of Achievement of First Artificial General Intelligence (AGI) - Olsher v2.pdf
+	new file:   Alignment/1708.09537.pdf
+	new file:   Alignment/1907.05587v1.pdf
+	new file:   Alignment/2304.11082.pdf
+	new file:   Alignment/2305.04388v2.pdf
+	new file:   Alignment/2310.20624v1.pdf
+	new file:   Alignment/2311.04892.pdf
+	new file:   Alignment/2311.05608.pdf
+	new file:   Alignment/2401.05566 sleeper agents.pdf
+	new file:   Alignment/2402.01732.pdf
+	new file:   Alignment/2402.04792.pdf
+	new file:   Alignment/2402.05526.pdf
+	new file:   Alignment/2402.06627.pdf
+	new file:   Alignment/2402.06664.pdf
+	new file:   Alignment/2402.06782.pdf
+	new file:   Alignment/2402.07350.pdf
+	new file:   Alignment/2402.07867.pdf
+	new file:   Alignment/2402.08679.pdf
+	new file:   Alignment/2402.09267.pdf
+	new file:   Alignment/2402.11753.pdf
+	new file:   Alignment/2402.11782.pdf
+	new file:   Alignment/2402.15570.pdf
+	new file:   Alignment/2402.16717.pdf
+	new file:   Alignment/2402.16822.pdf
+	new file:   Alignment/2403.02691.pdf
+	new file:   Alignment/2403.04769.pdf
+	new file:   Alignment/2403.13793.pdf
+	new file:   Alignment/2403.14380.pdf
+	new file:   Alignment/2404.00473.pdf
+	new file:   Alignment/2404.00806.pdf
+	new file:   Alignment/2404.01833v1.pdf
+	new file:   Alignment/2404.02151.pdf
+	new file:   Alignment/2404.05993.pdf
+	new file:   Alignment/2404.07921v1.pdf
+	new file:   Alignment/2404.08144.pdf
+	new file:   Alignment/2404.08793.pdf
+	new file:   Alignment/2404.13208.pdf
+	new file:   Alignment/2404.16873v1.pdf
+	new file:   Alignment/2404.18930v1.pdf
+	new file:   Alignment/2405.15589v1.pdf
+	new file:   Alignment/2405.19103v1.pdf
+	new file:   Alignment/2406.00888v1.pdf
+	new file:   Alignment/2406.01637v1.pdf
+	new file:   Alignment/2406.10162v2.pdf
+	new file:   Alignment/2406.10209v1.pdf
+	new file:   Alignment/2406.12259v1.pdf
+	new file:   Alignment/2406.18122v1.pdf
+	new file:   Alignment/2409.05746v1.pdf
+	new file:   Alignment/2409.17699v3.pdf
+	new file:   Alignment/35.pdf
+	new file:   Alignment/Aligning with ICL.pdf
+	new file:   Alignment/ComPromptMized.pdf
+	new file:   Alignment/Cracking the Code_ Examining Linguistic Elements in Adversarial P.pdf
+	new file:   Alignment/JailbreakBench.pdf
+	new file:   Alignment/Persuasion jailbreak.pdf
+	new file:   "Alignment/Scaling Monosemanticity: Extracting Interpretable\342\200\246.pdf"
+	new file:   Alignment/Spear 2.pdf
+	new file:   Alignment/in_context_scheming_reasoning_paper.pdf
+	new file:   Alignment/llm_self_recognition.pdf
+	new file:   Alignment/practices-for-governing-agentic-ai-systems.pdf
+	new file:   Alignment/science.adl0625.pdf
+	new file:   Alignment/situationalawareness.pdf
+	new file:   Alignment/vonGoom2023.pdf
+	new file:   Alignment/weak-to-strong-generalization.pdf
+	new file:   Building-Knowledge-Graphs-Practitioner's-Guide-OReilly-book.pdf
+	new file:   Cloud computing/3593856.3595909.pdf
+	new file:   Code Generation /2312.13010.pdf
+	new file:   Code Generation /2402.04141.pdf
+	new file:   Code Generation /2403.03163.pdf
+	new file:   Creativity/2401.01623.pdf
+	new file:   Creativity/2402.08855.pdf
+	new file:   Creativity/2404.07396.pdf
+	new file:   Creativity/AI_innovation.pdf
+	new file:   Creativity/SSRN-id4708466 2.pdf
+	new file:   Creativity/SSRN-id4708466.pdf
+	new file:   Data extraction/2312.17617.pdf
+	new file:   Embeddings/2205.13147.pdf
+	new file:   Embeddings/2401.09350.pdf
+	new file:   Embeddings/2401.18059.pdf
+	new file:   Embeddings/2410.02525v1.pdf
+	new file:   Emotions/2402.04559.pdf
+	new file:   Eval/2312.16337.pdf
+	new file:   Eval/2401.16788.pdf
+	new file:   Eval/2402.14992.pdf
+	new file:   Eval/2404.12272.pdf
+	new file:   Eval/2406.13439v1.pdf
+	new file:   Eval/CogEval/2112.04035 hippocampus transformers.pdf
+	new file:   Eval/CogEval/CogEval _ spatial ida.pdf
+	new file:   Eval/CogEval/tolman cognitive .pdf
+	new file:   Eval/Emergent mirage.pdf
+	new file:   Eval/Gpt-Turing .pdf
+	new file:   Finetuning /2405.19874v1.pdf
+	new file:   Finetuning /2408.13296v1.pdf
+	new file:   Forecasting/2404.07396.pdf
+	new file:   Image reasoning/2310.11441.pdf
+	new file:   Image reasoning/2312.08914.pdf
+	new file:   Image reasoning/2401.08396.pdf
+	new file:   Image reasoning/2401.13649.pdf
+	new file:   Image reasoning/2401.13919.pdf
+	new file:   Image reasoning/2401.16158.pdf
+	new file:   Image reasoning/2402.00253.pdf
+	new file:   Image reasoning/2402.04615.pdf
+	new file:   Image reasoning/2402.07456.pdf
+	new file:   Image reasoning/2402.07939.pdf
+	new file:   Image reasoning/2402.08017.pdf
+	new file:   Image reasoning/2402.12058.pdf
+	new file:   Image reasoning/2403.03186.pdf
+	new file:   Image reasoning/2403.07718.pdf
+	new file:   Image reasoning/2403.11481.pdf
+	new file:   Image reasoning/2404.05719.pdf
+	new file:   Image reasoning/2404.07972.pdf
+	new file:   Image reasoning/2404.09992.pdf
+	new file:   Image reasoning/2404.14396.pdf
+	new file:   Image reasoning/2404.16375v1.pdf
+	new file:   Image reasoning/Gpt4v smartphone my navigator.pdf
+	new file:   Image reasoning/Scaling Instructable Agents Across Many Simulated Worlds.pdf
+	new file:   Image reasoning/SeeAct_Paper.pdf
+	new file:   Image reasoning/Set of mark gpt4v.pdf
+	new file:   Image reasoning/Tree search.pdf
+	new file:   Image reasoning/pivot.pdf
+	new file:   Interpretability/2401.06102.pdf
+	new file:   LLM apps/2305.18084.pdf
+	new file:   LLM apps/2312.11988.pdf
+	new file:   LLM apps/2402.06071.pdf
+	new file:   LLM apps/2402.16153.pdf
+	new file:   LLM apps/2402.18679.pdf
+	new file:   LLM apps/2403.09142.pdf
+	new file:   LLM apps/2404.12753.pdf
+	new file:   LLM apps/2410.03017v1.pdf
+	new file:   LLM apps/5th Avenue, 1900 Vs. 1913.pdf
+	new file:   LLM apps/SSRN-id4835311.pdf
+	new file:   LLM apps/What AI Engineers Should Know about Search.pdf
+	new file:   LLM prod/2307.10169.pdf
+	new file:   LLMs basics/2401.02412.pdf
+	new file:   LLMs basics/2402.03175.pdf
+	new file:   LLMs basics/2402.09353.pdf
+	new file:   LLMs basics/2402.15391.pdf
+	new file:   LLMs basics/2403.01643.pdf
+	new file:   LLMs basics/2405.07987v1.pdf
+	new file:   LLMs basics/Docllm .pdf
+	new file:   Med ai/2405.03162v1.pdf
+	new file:   Medical/2401.05654.pdf
+	new file:   Medical/2402.05140.pdf
+	new file:   Memory/2306.03901v2.pdf
+	new file:   Memory/2308.01542v1.pdf
+	new file:   Memory/2401.02777v2.pdf
+	new file:   Memory/2402.09727v3.pdf
+	new file:   Memory/2403.01112v2.pdf
+	new file:   Memory/2405.14831v1.pdf
+	new file:   Memory/2406.18532v1.pdf
+	new file:   Memory/2407.01178v1.pdf
+	new file:   Memory/2407.09450v1.pdf
+	new file:   Memory/2409.07429v1.pdf
+	new file:   Memory/2409.09030v2.pdf
+	new file:   Memory/2409.11901v1.pdf
+	new file:   Memory/2409.13682v1.pdf
+	new file:   Personalization/2401.04858.pdf
+	new file:   Personalization/2411.00027v1.pdf
+	new file:   Prompting/2309.16797.pdf
+	new file:   Prompting/2310.11324.pdf
+	new file:   Prompting/2401.14423.pdf
+	new file:   Prompting/2402.03667.pdf
+	new file:   Prompting/2406.06608v2.pdf
+	new file:   Rag/2310.06117b step back prompting.pdf
+	new file:   Rag/2312.10997 RAG survey.pdf
+	new file:   Rag/2312.10997.pdf
+	new file:   Rag/2401.08406.pdf
+	new file:   Rag/2401.18059 2.pdf
+	new file:   Rag/2401.18059.pdf
+	new file:   Rag/2402.07483v1.pdf
+	new file:   Rag/2402.07630.pdf
+	new file:   Rag/2403.05440.pdf
+	new file:   Rag/2403.08319.pdf
+	new file:   Rag/2403.09040.pdf
+	new file:   Rag/2403.10131.pdf
+	new file:   Rag/2404.16130v1.pdf
+	new file:   Rag/2405.10311v1.pdf
+	new file:   Rag/2410.09713v2.pdf
+	new file:   Rag/2410.21943v1.pdf
+	new file:   Reasoning/107_eliciting_language_model_behav.pdf
+	new file:   Reasoning/2201.11903v6.pdf
+	new file:   Reasoning/2206.07682v2.pdf
+	new file:   Reasoning/2207.05221v4.pdf
+	new file:   Reasoning/2301.13261v1.pdf
+	new file:   Reasoning/2303.09014.pdf
+	new file:   Reasoning/2303.11366v4.pdf
+	new file:   Reasoning/2303.17071.pdf
+	new file:   Reasoning/2303.17651v2.pdf
+	new file:   Reasoning/2304.03843v3.pdf
+	new file:   Reasoning/2305.18323.pdf
+	new file:   Reasoning/2310.04406.pdf
+	new file:   Reasoning/2310.04406v3.pdf
+	new file:   Reasoning/2310.06983.pdf
+	new file:   Reasoning/2311.08516.pdf
+	new file:   Reasoning/2311.09682.pdf
+	new file:   Reasoning/2312.16171v1.pdf
+	new file:   Reasoning/2401.00812.pdf
+	new file:   Reasoning/2401.04398 chain of table.pdf
+	new file:   Reasoning/2401.05033.pdf
+	new file:   Reasoning/2401.05268.pdf
+	new file:   Reasoning/2401.06532.pdf
+	new file:   Reasoning/2401.08500.pdf
+	new file:   Reasoning/2401.08623.pdf
+	new file:   Reasoning/2401.10020 self rewarding .pdf
+	new file:   Reasoning/2401.10020.pdf
+	new file:   Reasoning/2401.12954 meta prompt.pdf
+	new file:   Reasoning/2401.14295.pdf
+	new file:   Reasoning/2401.14953.pdf
+	new file:   Reasoning/2401.17464.pdf
+	new file:   Reasoning/2402.01030.pdf
+	new file:   Reasoning/2402.01521.pdf
+	new file:   Reasoning/2402.03620.pdf
+	new file:   Reasoning/2402.04494.pdf
+	new file:   Reasoning/2402.04494v2.pdf
+	new file:   Reasoning/2402.04858.pdf
+	new file:   Reasoning/2402.05120.pdf
+	new file:   Reasoning/2402.05403.pdf
+	new file:   Reasoning/2402.08939.pdf
+	new file:   Reasoning/2402.09727.pdf
+	new file:   Reasoning/2402.10200.pdf
+	new file:   Reasoning/2402.11359v1.pdf
+	new file:   Reasoning/2402.11489.pdf
+	new file:   Reasoning/2402.15809.pdf
+	new file:   Reasoning/2402.16837.pdf
+	new file:   Reasoning/2402.17019.pdf
+	new file:   Reasoning/2402.19379.pdf
+	new file:   Reasoning/2403.02502.pdf
+	new file:   Reasoning/2403.02567v2.pdf
+	new file:   Reasoning/2403.03956.pdf
+	new file:   Reasoning/2403.05313.pdf
+	new file:   Reasoning/2403.06963.pdf
+	new file:   Reasoning/2403.09629.pdf
+	new file:   Reasoning/2403.11322.pdf
+	new file:   Reasoning/2403.11901.pdf
+	new file:   Reasoning/2403.14443.pdf
+	new file:   Reasoning/2403.15042.pdf
+	new file:   Reasoning/2403.15371.pdf
+	new file:   Reasoning/2403.18783.pdf
+	new file:   Reasoning/2404.02575.pdf
+	new file:   Reasoning/2404.03414.pdf
+	new file:   Reasoning/2404.03622.pdf
+	new file:   Reasoning/2404.03622v1.pdf
+	new file:   Reasoning/2404.05966.pdf
+	new file:   Reasoning/2404.12253.pdf
+	new file:   Reasoning/2404.13050.pdf
+	new file:   Reasoning/2404.15758v1.pdf
+	new file:   Reasoning/2405.00200v1.pdf
+	new file:   Reasoning/2405.15143v2.pdf
+	new file:   Reasoning/2405.20974v1.pdf
+	new file:   Reasoning/2406.06608v2.pdf
+	new file:   Reasoning/2406.06608v3.pdf
+	new file:   Reasoning/2406.07394v2.pdf
+	new file:   Reasoning/2406.11012v3.pdf
+	new file:   Reasoning/2406.11741v1.pdf
+	new file:   Reasoning/2406.12045v1.pdf
+	new file:   Reasoning/2406.12753v1.pdf
+	new file:   Reasoning/2406.13121v1.pdf
+	new file:   Reasoning/2406.14228v1.pdf
+	new file:   Reasoning/2406.14283v3.pdf
+	new file:   Reasoning/2406.14546v1.pdf
+	new file:   Reasoning/2406.14562v1.pdf
+	new file:   Reasoning/2406.16264v1.pdf
+	new file:   Reasoning/2406.18872v1.pdf
+	new file:   Reasoning/2406.19320v1.pdf
+	new file:   Reasoning/2406.20094v1.pdf
+	new file:   Reasoning/2407.01502v1.pdf
+	new file:   Reasoning/2407.01687v2.pdf
+	new file:   Reasoning/2407.06023v1.pdf
+	new file:   Reasoning/2408.03314v1.pdf
+	new file:   Reasoning/2408.06292v2.pdf
+	new file:   Reasoning/2409.09030v1.pdf
+	new file:   Reasoning/2409.15277v1.pdf
+	new file:   Reasoning/2410.02707v2.pdf
+	new file:   Reasoning/2410.02725v1.pdf
+	new file:   Reasoning/2410.03170v1.pdf
+	new file:   Reasoning/2410.03524v1.pdf
+	new file:   Reasoning/2410.10630v1 2.pdf
+	new file:   Reasoning/2410.10630v1.pdf
+	new file:   Reasoning/2410.11163v1.pdf
+	new file:   Reasoning/2410.12881v1.pdf
+	new file:   Reasoning/2411.02830v1.pdf
+	new file:   Reasoning/AgentQ.pdf
+	new file:   Reasoning/ICL outcompete FT.pdf
+	new file:   Reasoning/Medprompt.pdf
+	new file:   Reasoning/Mixture of agents.pdf
+	new file:   Reasoning/Prompts guidelines.pdf
+	new file:   Reasoning/Tree of thoughts.pdf
+	new file:   Reasoning/V* visual guided reasoning.pdf
+	new file:   Reasoning/llm-critics-help-catch-llm-bugs-paper.pdf
+	new file:   Reasoning/o1-system-card-20241205.pdf
+	new file:   Reasoning/o1_system_card.pdf
+	new file:   Reasoning/report.pdf
+	new file:   Reasoning/s41586-023-06747-5 alpha geometry .pdf
+	new file:   Robots/2402.18796.pdf
+	new file:   Shipping prod/2312.14231.pdf
+	new file:   Small LLM/2404.01744.pdf
+	new file:   Social impact/2404.03502.pdf
+	new file:   Teamwork /the-team-scaling-fallacy.pdf
+	new file:   Theory of mind/s41562-024-01882-z.pdf
+	new file:   untitled folder/Doc LLM.pdf
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	out.txt
+
